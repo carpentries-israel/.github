@@ -13,4 +13,4 @@
 
 Carpentries-Israel is a GitHub organization that can be used to host web sites for [Carpentries](https://carpentries.org/) workshops hosted in Israel.
 
-Carpentries workshops hosted in this GitHub organization welcome researchers from all backgrounds and adhere to the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Any Carpentries workshop hosted in this GitHub organization welcomes researchers from all backgrounds and adheres to the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Carpentries-Israel
 
 <!--
 
@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Here's the public README
+Carpentries-Israel is a GitHub organization that can be used to host web sites for Carpentries workshops hosted in Israel.
+
+Carpentries workshops hosted in this GitHub organization welcome researchers from all backgrounds and adhere to the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
